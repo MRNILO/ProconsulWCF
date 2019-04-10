@@ -1,0 +1,84 @@
+C:\Users\Microsoft\Documents\Visual Studio 2013\Projects\ProConsul Metronic 2.01\WCF-ProConsul2.0\bin\WCF-ProConsul2.0.dll.config
+C:\Users\Microsoft\Documents\Visual Studio 2013\Projects\ProConsul Metronic 2.01\WCF-ProConsul2.0\bin\WCF-ProConsul2.0.dll
+C:\Users\Microsoft\Documents\Visual Studio 2013\Projects\ProConsul Metronic 2.01\WCF-ProConsul2.0\bin\WCF-ProConsul2.0.pdb
+C:\Users\Microsoft\Documents\Visual Studio 2013\Projects\ProConsul Metronic 2.01\WCF-ProConsul2.0\bin\WCF-ProConsul2.0.xml
+C:\Users\Microsoft\Documents\Visual Studio 2013\Projects\ProConsul Metronic 2.01\WCF-ProConsul2.0\obj\Debug\WCF_ProConsul2._0.Resources.resources
+C:\Users\Microsoft\Documents\Visual Studio 2013\Projects\ProConsul Metronic 2.01\WCF-ProConsul2.0\obj\Debug\WCF-ProConsul2.0.vbproj.GenerateResource.Cache
+C:\Users\Microsoft\Documents\Visual Studio 2013\Projects\ProConsul Metronic 2.01\WCF-ProConsul2.0\obj\Debug\WCF-ProConsul2.0.dll
+C:\Users\Microsoft\Documents\Visual Studio 2013\Projects\ProConsul Metronic 2.01\WCF-ProConsul2.0\obj\Debug\WCF-ProConsul2.0.xml
+C:\Users\Microsoft\Documents\Visual Studio 2013\Projects\ProConsul Metronic 2.01\WCF-ProConsul2.0\obj\Debug\WCF-ProConsul2.0.pdb
+C:\Users\Microsoft\Documents\Visual Studio 2013\Projects\ProConsul Metronic 2.01\WCF-ProConsul2.0\obj\Debug\WCF-ProConsul2.0.vbprojResolveAssemblyReference.cache
+G:\edificasa\Desarrollos\ProConsul Metronic 2.01\WCF-ProConsul2.0\bin\WCF-ProConsul2.0.dll.config
+G:\edificasa\Desarrollos\ProConsul Metronic 2.01\WCF-ProConsul2.0\bin\WCF-ProConsul2.0.dll
+G:\edificasa\Desarrollos\ProConsul Metronic 2.01\WCF-ProConsul2.0\bin\WCF-ProConsul2.0.pdb
+G:\edificasa\Desarrollos\ProConsul Metronic 2.01\WCF-ProConsul2.0\bin\WCF-ProConsul2.0.xml
+G:\edificasa\Desarrollos\ProConsul Metronic 2.01\WCF-ProConsul2.0\obj\Debug\WCF_ProConsul2._0.Resources.resources
+G:\edificasa\Desarrollos\ProConsul Metronic 2.01\WCF-ProConsul2.0\obj\Debug\WCF-ProConsul2.0.vbproj.GenerateResource.Cache
+G:\edificasa\Desarrollos\ProConsul Metronic 2.01\WCF-ProConsul2.0\obj\Debug\WCF-ProConsul2.0.dll
+G:\edificasa\Desarrollos\ProConsul Metronic 2.01\WCF-ProConsul2.0\obj\Debug\WCF-ProConsul2.0.xml
+G:\edificasa\Desarrollos\ProConsul Metronic 2.01\WCF-ProConsul2.0\obj\Debug\WCF-ProConsul2.0.pdb
+F:\edificasa\Desarrollos\ProConsul Metronic 2.01\WCF-ProConsul2.0\bin\WCF-ProConsul2.0.dll.config
+F:\edificasa\Desarrollos\ProConsul Metronic 2.01\WCF-ProConsul2.0\bin\WCF-ProConsul2.0.dll
+F:\edificasa\Desarrollos\ProConsul Metronic 2.01\WCF-ProConsul2.0\bin\WCF-ProConsul2.0.pdb
+F:\edificasa\Desarrollos\ProConsul Metronic 2.01\WCF-ProConsul2.0\bin\WCF-ProConsul2.0.xml
+F:\edificasa\Desarrollos\ProConsul Metronic 2.01\WCF-ProConsul2.0\obj\Debug\WCF_ProConsul2._0.Resources.resources
+F:\edificasa\Desarrollos\ProConsul Metronic 2.01\WCF-ProConsul2.0\obj\Debug\WCF-ProConsul2.0.vbproj.GenerateResource.Cache
+F:\edificasa\Desarrollos\ProConsul Metronic 2.01\WCF-ProConsul2.0\obj\Debug\WCF-ProConsul2.0.dll
+F:\edificasa\Desarrollos\ProConsul Metronic 2.01\WCF-ProConsul2.0\obj\Debug\WCF-ProConsul2.0.xml
+F:\edificasa\Desarrollos\ProConsul Metronic 2.01\WCF-ProConsul2.0\obj\Debug\WCF-ProConsul2.0.pdb
+F:\edificasa\Desarrollos\ProConsul Metronic 2.01\WCF-ProConsul2.0\obj\Debug\WCF-ProConsul2.0.vbprojResolveAssemblyReference.cache
+C:\Users\Octy\SkyDrive\Edificasa\Desarrollos\ProConsul Metronic 2.01\WCF-ProConsul2.0\bin\WCF-ProConsul2.0.dll.config
+C:\Users\Octy\SkyDrive\Edificasa\Desarrollos\ProConsul Metronic 2.01\WCF-ProConsul2.0\bin\WCF-ProConsul2.0.dll
+C:\Users\Octy\SkyDrive\Edificasa\Desarrollos\ProConsul Metronic 2.01\WCF-ProConsul2.0\bin\WCF-ProConsul2.0.pdb
+C:\Users\Octy\SkyDrive\Edificasa\Desarrollos\ProConsul Metronic 2.01\WCF-ProConsul2.0\bin\WCF-ProConsul2.0.xml
+C:\Users\Octy\SkyDrive\Edificasa\Desarrollos\ProConsul Metronic 2.01\WCF-ProConsul2.0\obj\Debug\WCF-ProConsul2.0.vbprojResolveAssemblyReference.cache
+C:\Users\Octy\SkyDrive\Edificasa\Desarrollos\ProConsul Metronic 2.01\WCF-ProConsul2.0\obj\Debug\WCF_ProConsul2._0.Resources.resources
+C:\Users\Octy\SkyDrive\Edificasa\Desarrollos\ProConsul Metronic 2.01\WCF-ProConsul2.0\obj\Debug\WCF-ProConsul2.0.vbproj.GenerateResource.Cache
+C:\Users\Octy\SkyDrive\Edificasa\Desarrollos\ProConsul Metronic 2.01\WCF-ProConsul2.0\obj\Debug\WCF-ProConsul2.0.dll
+C:\Users\Octy\SkyDrive\Edificasa\Desarrollos\ProConsul Metronic 2.01\WCF-ProConsul2.0\obj\Debug\WCF-ProConsul2.0.xml
+C:\Users\Octy\SkyDrive\Edificasa\Desarrollos\ProConsul Metronic 2.01\WCF-ProConsul2.0\obj\Debug\WCF-ProConsul2.0.pdb
+C:\Users\Microsoft\OneDrive\Edificasa\Desarrollos\ProConsul Metronic 2.01\WCF-ProConsul2.0\bin\WCF-ProConsul2.0.dll.config
+C:\Users\Microsoft\OneDrive\Edificasa\Desarrollos\ProConsul Metronic 2.01\WCF-ProConsul2.0\bin\WCF-ProConsul2.0.dll
+C:\Users\Microsoft\OneDrive\Edificasa\Desarrollos\ProConsul Metronic 2.01\WCF-ProConsul2.0\bin\WCF-ProConsul2.0.pdb
+C:\Users\Microsoft\OneDrive\Edificasa\Desarrollos\ProConsul Metronic 2.01\WCF-ProConsul2.0\bin\WCF-ProConsul2.0.xml
+C:\Users\Microsoft\OneDrive\Edificasa\Desarrollos\ProConsul Metronic 2.01\WCF-ProConsul2.0\obj\Debug\WCF_ProConsul2._0.Resources.resources
+C:\Users\Microsoft\OneDrive\Edificasa\Desarrollos\ProConsul Metronic 2.01\WCF-ProConsul2.0\obj\Debug\WCF-ProConsul2.0.vbproj.GenerateResource.Cache
+C:\Users\Microsoft\OneDrive\Edificasa\Desarrollos\ProConsul Metronic 2.01\WCF-ProConsul2.0\obj\Debug\WCF-ProConsul2.0.dll
+C:\Users\Microsoft\OneDrive\Edificasa\Desarrollos\ProConsul Metronic 2.01\WCF-ProConsul2.0\obj\Debug\WCF-ProConsul2.0.xml
+C:\Users\Microsoft\OneDrive\Edificasa\Desarrollos\ProConsul Metronic 2.01\WCF-ProConsul2.0\obj\Debug\WCF-ProConsul2.0.pdb
+C:\Users\Microsoft\OneDrive\Edificasa\Desarrollos\ProConsul Metronic 2.01\WCF-ProConsul2.0\obj\Debug\WCF-ProConsul2.0.vbprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Edificasa\Desarrollos\Desarrollos\ProConsul Metronic 2.01\WCF-ProConsul2.0\bin\WCF-ProConsul2.0.dll.config
+C:\Users\Usuario\Desktop\Edificasa\Desarrollos\Desarrollos\ProConsul Metronic 2.01\WCF-ProConsul2.0\bin\WCF-ProConsul2.0.dll
+C:\Users\Usuario\Desktop\Edificasa\Desarrollos\Desarrollos\ProConsul Metronic 2.01\WCF-ProConsul2.0\bin\WCF-ProConsul2.0.pdb
+C:\Users\Usuario\Desktop\Edificasa\Desarrollos\Desarrollos\ProConsul Metronic 2.01\WCF-ProConsul2.0\bin\WCF-ProConsul2.0.xml
+C:\Users\Usuario\Desktop\Edificasa\Desarrollos\Desarrollos\ProConsul Metronic 2.01\WCF-ProConsul2.0\obj\Debug\WCF_ProConsul2._0.Resources.resources
+C:\Users\Usuario\Desktop\Edificasa\Desarrollos\Desarrollos\ProConsul Metronic 2.01\WCF-ProConsul2.0\obj\Debug\WCF-ProConsul2.0.vbproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Edificasa\Desarrollos\Desarrollos\ProConsul Metronic 2.01\WCF-ProConsul2.0\obj\Debug\WCF-ProConsul2.0.dll
+C:\Users\Usuario\Desktop\Edificasa\Desarrollos\Desarrollos\ProConsul Metronic 2.01\WCF-ProConsul2.0\obj\Debug\WCF-ProConsul2.0.xml
+C:\Users\Usuario\Desktop\Edificasa\Desarrollos\Desarrollos\ProConsul Metronic 2.01\WCF-ProConsul2.0\obj\Debug\WCF-ProConsul2.0.pdb
+C:\Users\Usuario\Desktop\Edificasa\Desarrollos\Desarrollos\ProConsul Metronic 2.01\WCF-ProConsul2.0\obj\Debug\WCF-ProConsul2.0.vbprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Edificasa\Desarrollos\Desarrollos\ProConsul Metronic 2.01\WCF-ProConsul2.0\obj\Debug\WCF-ProConsul2.0.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Edificasa\Desarrollos\Desarrollos\ProConsul Metronic 2.01\WCF-ProConsul2.0\obj\Debug\WCF-ProConsul2.0.vbproj.CopyComplete
+C:\Desarrollos\ProConsul Metronic 2.01\WCF-ProConsul2.0\bin\WCF-ProConsul2.0.dll.config
+C:\Desarrollos\ProConsul Metronic 2.01\WCF-ProConsul2.0\bin\WCF-ProConsul2.0.dll
+C:\Desarrollos\ProConsul Metronic 2.01\WCF-ProConsul2.0\bin\WCF-ProConsul2.0.pdb
+C:\Desarrollos\ProConsul Metronic 2.01\WCF-ProConsul2.0\bin\WCF-ProConsul2.0.xml
+C:\Desarrollos\ProConsul Metronic 2.01\WCF-ProConsul2.0\obj\Debug\WCF_ProConsul2._0.Resources.resources
+C:\Desarrollos\ProConsul Metronic 2.01\WCF-ProConsul2.0\obj\Debug\WCF-ProConsul2.0.vbproj.GenerateResource.cache
+C:\Desarrollos\ProConsul Metronic 2.01\WCF-ProConsul2.0\obj\Debug\WCF-ProConsul2.0.vbproj.CoreCompileInputs.cache
+C:\Desarrollos\ProConsul Metronic 2.01\WCF-ProConsul2.0\obj\Debug\WCF-ProConsul2.0.vbproj.CopyComplete
+C:\Desarrollos\ProConsul Metronic 2.01\WCF-ProConsul2.0\obj\Debug\WCF-ProConsul2.0.dll
+C:\Desarrollos\ProConsul Metronic 2.01\WCF-ProConsul2.0\obj\Debug\WCF-ProConsul2.0.xml
+C:\Desarrollos\ProConsul Metronic 2.01\WCF-ProConsul2.0\obj\Debug\WCF-ProConsul2.0.pdb
+C:\Desarrollos\ProConsul Metronic 2.01\WCF-ProConsul2.0\obj\Debug\WCF-ProConsul2.0.vbprojAssemblyReference.cache
+C:\Desarrollos\ProConsul Metronic 2.01 - BackBF18\WCF-ProConsul2.0\bin\WCF-ProConsul2.0.dll.config
+C:\Desarrollos\ProConsul Metronic 2.01 - BackBF18\WCF-ProConsul2.0\bin\WCF-ProConsul2.0.dll
+C:\Desarrollos\ProConsul Metronic 2.01 - BackBF18\WCF-ProConsul2.0\bin\WCF-ProConsul2.0.pdb
+C:\Desarrollos\ProConsul Metronic 2.01 - BackBF18\WCF-ProConsul2.0\bin\WCF-ProConsul2.0.xml
+C:\Desarrollos\ProConsul Metronic 2.01 - BackBF18\WCF-ProConsul2.0\obj\Debug\WCF_ProConsul2._0.Resources.resources
+C:\Desarrollos\ProConsul Metronic 2.01 - BackBF18\WCF-ProConsul2.0\obj\Debug\WCF-ProConsul2.0.vbproj.GenerateResource.cache
+C:\Desarrollos\ProConsul Metronic 2.01 - BackBF18\WCF-ProConsul2.0\obj\Debug\WCF-ProConsul2.0.vbproj.CoreCompileInputs.cache
+C:\Desarrollos\ProConsul Metronic 2.01 - BackBF18\WCF-ProConsul2.0\obj\Debug\WCF-ProConsul2.0.vbproj.CopyComplete
+C:\Desarrollos\ProConsul Metronic 2.01 - BackBF18\WCF-ProConsul2.0\obj\Debug\WCF-ProConsul2.0.dll
+C:\Desarrollos\ProConsul Metronic 2.01 - BackBF18\WCF-ProConsul2.0\obj\Debug\WCF-ProConsul2.0.xml
+C:\Desarrollos\ProConsul Metronic 2.01 - BackBF18\WCF-ProConsul2.0\obj\Debug\WCF-ProConsul2.0.pdb

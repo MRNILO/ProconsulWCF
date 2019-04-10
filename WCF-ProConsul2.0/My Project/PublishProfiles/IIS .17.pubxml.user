@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo es utilizado por el proceso de paquete/publicación de nuestro proyecto Web. Puede personalizar el comportamiento de este proceso
+editando este archivo MSBuild. Para conocer más acerca de esto, visite http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Publicaciones Web\WCF_Proconsul</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/MySql.Data.dll">
+      <publishTime>08/29/2014 01:11:46</publishTime>
+    </File>
+    <File Include="bin/WCF-ProConsul2.0.dll">
+      <publishTime>02/18/2019 10:20:09</publishTime>
+    </File>
+    <File Include="bin/WCF-ProConsul2.0.pdb">
+      <publishTime>02/18/2019 10:20:09</publishTime>
+    </File>
+    <File Include="bin/WCF-ProConsul2.0.xml">
+      <publishTime>02/18/2019 10:20:09</publishTime>
+    </File>
+    <File Include="Service1.svc">
+      <publishTime>04/15/2014 17:59:20</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>01/22/2019 14:00:59</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
